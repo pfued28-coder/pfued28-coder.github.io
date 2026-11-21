@@ -1,0 +1,33 @@
+{
+  "name": "Wortgarten",
+  "short_name": "Wortgarten",
+  "description": "Lern-App für Amira – Wörter, Spiele, Foto-Import",
+  "id": "/",
+  "start_url": "/?homescreen=1",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#dff6ff",
+  "theme_color": "#2f8f5b",
+  "lang": "de",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
